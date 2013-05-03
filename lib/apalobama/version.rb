@@ -1,3 +1,3 @@
-module apolaboma
-  VERSION = "0.0.1"
+module Apalobama
+  VERSION = "0.0.4"
 end

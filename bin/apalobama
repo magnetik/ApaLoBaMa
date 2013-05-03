@@ -2,4 +2,4 @@
 
 require 'apalobama'
 
-apalobama = Apalobama::App.new
+Apalobama::CLI.start
