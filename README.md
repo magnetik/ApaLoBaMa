@@ -1,24 +1,16 @@
 # ApaLoBaMa
 
-TODO: Write a gem description
+Apache Load Balancer Manager helps you to deal with mod-proxy-balancer in CLI.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'apalobama'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install apalobama
 
 ## Usage
 
-TODO: Write usage instructions here
+In command line:
+
+    $ alapobama
 
 ## Contributing
 
